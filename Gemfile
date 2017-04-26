@@ -27,8 +27,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 
 gem 'devise'
+gem 'oauth2'
 gem 'omniauth', '~> 1.0'
 gem 'omniauth-digitalocean'
+gem 'omniauth-oauth2'
 
 # Use Unicorn as the app server
 # gem 'unicorn'

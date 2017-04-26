@@ -188,8 +188,10 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.0)
   jquery-rails
+  oauth2
   omniauth (~> 1.0)
   omniauth-digitalocean
+  omniauth-oauth2
   rails (= 4.2.6)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)

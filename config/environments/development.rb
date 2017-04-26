@@ -39,3 +39,7 @@ Rails.application.configure do
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 end
+
+DOORKEEPER_APP_ID = "9ffa940a650a419fb60ddcd2fd00ed0d70cc1251545b56a22774dc0062a98244"
+DOORKEEPER_APP_SECRET = "ef604746009422a84441aa99c235f772fac1d5c9f4cbef9ad790644c2543962c"
+DOORKEEPER_APP_URL = "http://localhost:3000"
